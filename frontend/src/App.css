@@ -1,0 +1,20 @@
+
+.nav-link{
+  margin-left: 45px;
+}
+
+.footer a{
+  text-decoration: none;
+  opacity: .8;
+  display: block; 
+  color: inherit;
+}
+
+.footer a:hover {
+  color: rgb(0, 140, 255);   
+  opacity: .7;       /* turns blue on hover */
+}
+
+/* .hero{
+  margin-top: 50px;
+} */
