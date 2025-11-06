@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 68b321613147c04a514a5463aed55597835be8af Aman Kumar <amankumarfg8@gmail.com> 1762448074 +0530	commit (initial): Added full Zerodha project including frontend, backend, dashboard
+68b321613147c04a514a5463aed55597835be8af 44a4310a6f9bfc2b7fe9d5d61d84c676ee511f99 Aman Kumar <amankumarfg8@gmail.com> 1762448197 +0530	commit: Add frontend folder as normal directory instead of submodule
+44a4310a6f9bfc2b7fe9d5d61d84c676ee511f99 0000000000000000000000000000000000000000 Aman Kumar <amankumarfg8@gmail.com> 1762448214 +0530	Branch: renamed refs/heads/main to refs/heads/main
+44a4310a6f9bfc2b7fe9d5d61d84c676ee511f99 44a4310a6f9bfc2b7fe9d5d61d84c676ee511f99 Aman Kumar <amankumarfg8@gmail.com> 1762448214 +0530	Branch: renamed refs/heads/main to refs/heads/main
